@@ -32,7 +32,7 @@ const harshad = {
 
 <div align="center">
   
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/harshadtile?theme=dark&ext=heatmap)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/4OfX1YiJE3?theme=dark&ext=heatmap)
   
 </div>
 
